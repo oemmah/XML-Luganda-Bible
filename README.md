@@ -1,2 +1,3 @@
 # XML-Luganda-Bible
-upload errors eliminated
+upload errors eliminated,
+ 
